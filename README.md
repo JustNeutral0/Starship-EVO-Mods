@@ -7,6 +7,7 @@ JustNeutral0's mods for Starship EVO. Each mod has its own repository with its r
 |---|---|---|---|
 | **EvoCore** | The Lua Computer: a programmable logic block with graph and Lua editors, monitors you can draw on, and animation for ship joints. Also the base the other mods build on. | | [StarshipEVO-EvoCore](https://github.com/JustNeutral0/StarshipEVO-EvoCore) |
 | **Cockpit Displays** | Windowless cockpits: screens and painted surfaces showing live outside views, and HUD canvases for the Lua Computer. | EvoCore | [StarshipEVO-CockpitDisplays](https://github.com/JustNeutral0/StarshipEVO-CockpitDisplays) |
+| **Mod Settings** | One window (F11 or the Escape menu) for every mod's settings and tabs. | EvoCore | [StarshipEVO-ModSettings](https://github.com/JustNeutral0/StarshipEVO-ModSettings) |
 
 More mods will be added here as they're ready for testing.
 
