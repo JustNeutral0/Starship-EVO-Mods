@@ -18,12 +18,14 @@ build on it.
 
 ## Installing
 
+**First, the game build:** these mods are built for the **Unity 6 beta** of Starship EVO, not the default build. In Steam, right-click Starship EVO, open **Properties > Betas**, pick **unity6**, and let it update. The mods don't work on the default build (character creation breaks, for one).
+
 1. Get [Starship Uplink](https://github.com/MadTheDog/Starship-Uplink) and create a profile for your game.
 2. For each mod, use **Add from GitHub** with its repository (e.g. `JustNeutral0/StarshipEVO-EvoCore`), pick its
    zip, and install it. Install EvoCore first.
 3. Launch through Uplink.
 
-These are early test releases, built against Starship EVO early-access 26w45a, and single-player only for now
+These are early test releases, built against Starship EVO early-access 26w45a (Unity 6 beta branch), and single-player only for now
 (EvoFixes' power recount is the one multiplayer fix).
 Report problems in the Issues of the mod's own repository.
 
