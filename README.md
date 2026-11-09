@@ -11,6 +11,10 @@ JustNeutral0's mods for Starship EVO. Each mod has its own repository with its r
 
 More mods will be added here as they're ready for testing.
 
+Each mod's source code is in its repository (MIT licence), with how to build it in its README. EvoCore's
+[MODDING.md](https://github.com/JustNeutral0/StarshipEVO-EvoCore/blob/main/MODDING.md) explains how other mods can
+build on it.
+
 ## Installing
 
 1. Get [Starship Uplink](https://github.com/MadTheDog/Starship-Uplink) and create a profile for your game.
